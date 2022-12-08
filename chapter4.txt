@@ -1,0 +1,4 @@
+This is the last chapter, which is Chapter Four.
+I am very happy to tell you that I have the grip on using Git. I am certainly sure that this is going to be useful in the future.
+
+Thanks and take care.
