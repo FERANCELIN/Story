@@ -1,1 +1,2 @@
 Hello, this is chapter one. Created in VIM.
+I am learning how to use VIM.
